@@ -1,0 +1,11 @@
+/Users/osmarenrique/Projects/Radix/Radix/bin/Debug/netcoreapp2.0/Radix.deps.json
+/Users/osmarenrique/Projects/Radix/Radix/bin/Debug/netcoreapp2.0/Radix.runtimeconfig.json
+/Users/osmarenrique/Projects/Radix/Radix/bin/Debug/netcoreapp2.0/Radix.runtimeconfig.dev.json
+/Users/osmarenrique/Projects/Radix/Radix/bin/Debug/netcoreapp2.0/Radix.dll
+/Users/osmarenrique/Projects/Radix/Radix/bin/Debug/netcoreapp2.0/Radix.pdb
+/Users/osmarenrique/Projects/Radix/Radix/obj/Debug/netcoreapp2.0/Radix.csprojAssemblyReference.cache
+/Users/osmarenrique/Projects/Radix/Radix/obj/Debug/netcoreapp2.0/Radix.csproj.CoreCompileInputs.cache
+/Users/osmarenrique/Projects/Radix/Radix/obj/Debug/netcoreapp2.0/Radix.AssemblyInfoInputs.cache
+/Users/osmarenrique/Projects/Radix/Radix/obj/Debug/netcoreapp2.0/Radix.AssemblyInfo.cs
+/Users/osmarenrique/Projects/Radix/Radix/obj/Debug/netcoreapp2.0/Radix.dll
+/Users/osmarenrique/Projects/Radix/Radix/obj/Debug/netcoreapp2.0/Radix.pdb
